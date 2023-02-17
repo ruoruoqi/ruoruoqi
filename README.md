@@ -7,7 +7,7 @@
 
 I'm currently a student at Monash University, studying IT and Geographical Science with an interest in computer networks and systems. In my free time I like going for walks with my dog and indulging in my granny hobbies of knitting and crocheting.
 
-Right now I am working on expanding my tech knowledge and developing my skills as a programmer, please don't hesistate to reach out if you'd like to [connect!](llamkttt@gmail.com)
+Right now I am working on expanding my tech knowledge and developing my skills as a programmer, please don't hesistate to reach out if you'd like to [connect!](mailto:llamkttt@gmail.com)
 
 ### :gear: Languages :
 <div>
