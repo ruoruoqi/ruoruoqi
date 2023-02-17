@@ -20,6 +20,6 @@ Right now I am working on expanding my tech knowledge and developing my skills a
 
 <br/>
 
-### :robot: Holding Myself Accountable
+#### :robot: trying to keep myself accountable :robot:
 
 
