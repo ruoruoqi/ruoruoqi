@@ -1,6 +1,4 @@
-<div id="header" align="center">
-    <img src=llamkt.png width="350"/>
-</div>
+
 
 # hi hi :space_invader:
 
